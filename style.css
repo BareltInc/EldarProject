@@ -22,3 +22,10 @@
 div {
     background: red;
 }
+
+.parag_4 {
+    font-style: italic;
+    font-size: 24px;
+    text-shadow: green 1px 1px;
+    text-align: center;
+}
